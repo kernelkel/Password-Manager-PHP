@@ -13,3 +13,5 @@ You can manage your passwords securely with that script.
 ## Notes
 Username: test
 Password: test
+
+Dont forget change database creds in connect.php
